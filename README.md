@@ -4,7 +4,7 @@ Bu depo, Evrişimli Sinir Ağları (CNN) alanındaki çalışmalarımı sergilem
 
 ## 📂 Proje 1: CIFAR-10 Görüntü Sınıflandırma
 
-CIFAR-10 veri seti kullanılarak geliştirilen, görüntü sınıflandırma tabanlı bir CNN modelidir. 
+CIFAR-10 veri seti kullanılarak geliştirilen, görüntü sınıflandırma tabanlı bir CNN modelidir.
 
 ### ⚙️ Teknik Detaylar
 * **Veri Boru Hattı:** `tf.data.Dataset` kullanılarak optimize edilmiştir.
